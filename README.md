@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# calculadora-imc-dart
+Criação de uma calculadora de IMC básica na linguagem Dart.
+>>>>>>> fd15bf855e0ebb54f8805fa8a17dba3e45da2902
